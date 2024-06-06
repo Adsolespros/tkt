@@ -4,6 +4,8 @@ h1 {
     text-align: center
 }
 img {
-max-width: 25%;
-max-height: 25%
+    width: 25%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
