@@ -42,17 +42,19 @@ button-44 {
   width: 100%;
   word-break: break-word;
   border: 0;
+  margin-left: auto;
+  margin-right: auto
 }
 
-.button-44:active,
-.button-44:focus {
+button-44:active,
+button-44:focus {
   border-bottom-style: none;
   border-color: #dadada;
   box-shadow: rgba(0, 0, 0, .3) 0 3px 3px inset;
   outline: 0;
 }
 
-.button-44:hover {
+button-44:hover {
   border-bottom-style: none;
   border-color: #dadada;
 }
