@@ -12,7 +12,7 @@
       <h1>Je t'adore mon frère</h1>
       <img src="Coeur.png" alt="coeur pour mon soso" class="coeurdesoso">
       <button class="button-44" role="button">Clique Ici c pas un rickroll promis</button>
-      <video src="Bouh.mp4" alt="Bouh tu as peur n'aies pas peur je suis un ami je ne te ferais pas de mal" autoplay loop/>
+      <video src="Bouh.mp4" alt="Bouh tu as peur n'aies pas peur je suis un ami je ne te ferais pas de mal" muted controls autoplay loop />
       <script>
          var button = document.getElementsByTagName('button')[0];
          var video = document.getElementsByTagName('video')[0];
@@ -20,7 +20,6 @@
          video.style.display = (video.style.display == "block") ? "none" : "block";
          }
          button.onclick = afficher
-         button.onclick = video.play
       </script>
    </body>
 </html>
