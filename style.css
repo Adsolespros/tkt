@@ -16,6 +16,10 @@ body {
 }
 video {
     display: none;
+    width: 25%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 button-44 {
   background: #e62143;
