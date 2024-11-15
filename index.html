@@ -11,6 +11,14 @@
    <body>
       <h1>Je t'adore mon frère</h1>
       <img src="Coeur.png" alt="coeur pour mon soso" class="coeurdesoso">
-      <video src="Bouh.mp4">Bouh tu as peur n'aies pas peur je suis un ami je ne te ferais pas de mal<video>
+      <video src="Bouh.mp4">Bouh tu as peur n'aies pas peur je suis un ami je ne te ferais pas de mal</video>
+      <script>
+         var button = document.getElementsByTagName('button')[0];
+         var video = document.getElementsByTagName('video')[0];
+         window.afficher = function(){
+         video.style.display = (video.style.display == "block") ? "none" : "block";
+         }
+         button.onclick = afficher
+      </script>
    </body>
 </html>
