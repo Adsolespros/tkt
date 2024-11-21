@@ -1,0 +1,1 @@
+Ceci est un coeur pour the most handsome living shit, the dumbest one in the world, and as useful as the actual leader of a country invaded in WW2 by hit the air, our favorite uncle, the tenth of May nineteen forty, And was then ruled by putin but U -----> é, our national CRap with a persONnal teacher of french at home, check the upper-case letters for his name.
